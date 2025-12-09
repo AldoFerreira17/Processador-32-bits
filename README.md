@@ -1,0 +1,1 @@
+# Processador-32-bits
